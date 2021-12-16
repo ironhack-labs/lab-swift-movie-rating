@@ -5,11 +5,10 @@
 
 <br>
 
-<!-- ## Learning Outcomes
+## Introduction
 
-After completing this lab, you will be able to:
-
-- *** -->
+Labs are mandatory and must be completed before the start of the next class. 
+You may work collaboratively with your classmates, but you may not copy and paste another student's code.
 
 ## Requirements
 
